@@ -1,4 +1,4 @@
-# Dashboard-Financeiro-real
+# Dashboard-Financeiro-Real
 
 ✔️ Integração com API via Yahoo Finance
 ✔️ Dados reais da B3
